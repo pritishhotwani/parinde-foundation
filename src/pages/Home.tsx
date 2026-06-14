@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import logo from "../assets/Logo.png";
 import firstSession from "../assets/first-session.jpg";
-import menstrual from "../assets/Menstrual-drive.jpg";
+import menstrual from "../assets/menstrual-drive.jpg";
 
 export default function Home() {
   return (
