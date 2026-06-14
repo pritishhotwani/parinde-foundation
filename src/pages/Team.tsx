@@ -6,6 +6,11 @@ export default function Team() {
       icon: "📚"
     },
     {
+      name: "Pari Meheta",
+      role: "On site Teaching Incharge",
+      icon: "📚"
+    },
+    {
       name: "Himakshi Tak",
       role: "On Site Teaching Incharge",
       icon: "📚"
@@ -29,6 +34,11 @@ export default function Team() {
       name: "Daksh Agarwal",
       role: "Outreach & Partnership Incharge",
       icon: "🤝"
+    },
+    {
+      name:"Pritish Rajkumar Hotwani",
+      role:"Web Developer & Technical Lead",
+      icon:"💻"
     }
   ];
 
