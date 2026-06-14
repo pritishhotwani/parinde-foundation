@@ -1,4 +1,4 @@
-import qr from "../assets/donate-qr.jpg";
+import qr from "../assets/donate-qr.jpeg";
 
 export default function Donate() {
   return (
